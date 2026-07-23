@@ -1,0 +1,14 @@
+author = 'Oxalin'
+country_code = 'GB'
+description = "The Wherry Lines, Bittern Line and East Suffolk Line in the UK"
+display_name = 'Wherry Lines'
+doc_files = [ 'Wherry Lines.md' ]
+factual = true
+img_files = [ 'Wherry Lines.bmp' ]
+name = 'Wherry Lines'
+release_date = '2022-05-02'
+rly_file = 'Wherry Lines.rly'
+ttb_files = [ 'Wherry Lines 11-05-22.ttb' ]
+year = 2022
+signal_position - "left"
+version = '1.0.0'
