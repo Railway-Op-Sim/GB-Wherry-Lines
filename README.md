@@ -1,7 +1,7 @@
 # Wherry Lines
 The Wherry Lines, Bittern Line and East Suffolk Line in the UK. These lines link the city of Norwich to the coastal towns of Sheringham, Great Yarmouth and Lowestoft.
 
-![Image of Current State of Map]("Images/Wherry Lines.bmp")
+![Image of Current State of Map]('Images/Wherry Lines.bmp')
 
 ## Current Status
 
